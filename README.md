@@ -6,6 +6,8 @@
 
 The image captioning model is implemented using the PyTorch framework and leverages the Hugging Face Transformers library for efficient natural language processing.
 
+Used streamlit python library for creating interactive web applications.
+
 ## Demo
 Caption can be generate for any image at [link](https://huggingface.co/spaces/luv-bansal/demo-app)
 
