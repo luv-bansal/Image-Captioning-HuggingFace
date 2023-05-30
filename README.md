@@ -27,7 +27,7 @@ Generated Caption: "Group of young children playing soccer on a field."
 
 Generated Caption: "Jeep driving down a dirt road in the woods."
 
-![Image 3](images\sunset.jpeg)
+![Image 3](images/sunset.jpeg)
 
 Generated Caption: "A beautiful sunset over the ocean with waves crashing on the shore."
 
