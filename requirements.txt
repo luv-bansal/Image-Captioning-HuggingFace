@@ -1,3 +1,5 @@
 torch
 transformers
 Pillow
+openai 
+python-dotenv

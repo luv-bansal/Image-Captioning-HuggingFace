@@ -8,10 +8,12 @@ sdk_version: 1.21.0
 app_file: app.py
 pinned: false
 ---
-# Image Captioning Model - BLIP
+# Image Captioning Model - BLIP And ChatGPT
 
 ## Introduction
  Image Captioning Model - BLIP (Bootstrapping Language-Image Pre-training). This model is designed for unified vision-language understanding and generation tasks. It is trained on the COCO (Common Objects in Context) dataset using a base architecture with a ViT (Vision Transformer) large backbone.
+ 
+ It utilizes the BLIP architecture, which combines bootstrapping language-image pre-training with the ability to generate creative captions using the OpenAI ChatGPT API.
 
 The image captioning model is implemented using the PyTorch framework and leverages the Hugging Face Transformers library for efficient natural language processing.
 
